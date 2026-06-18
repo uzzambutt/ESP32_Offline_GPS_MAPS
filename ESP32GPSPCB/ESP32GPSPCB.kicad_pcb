@@ -18443,7 +18443,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Designer: Muhammad Uzzam butt ©️ 2026"
+	(gr_text "Designer: Muhammad Uzzam Butt ©️ 2026"
 		(at 111.9 45.2 0)
 		(layer "F.SilkS")
 		(uuid "22df8554-6c73-45fe-8db0-7d3ab6e7b375")
