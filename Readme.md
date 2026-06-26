@@ -12,7 +12,7 @@ A hardware-focused project developed for the Hack Club community. This repositor
 ## Hardware Overview
 
 <p align="center">
-  <img src="1000122845.webp" alt="ESP32 GPS Maps 3D Render" width="80%" />
+  <img src="image.webp" alt="ESP32 GPS Maps 3D Render" width="80%" />
 </p>
 
 The core of the project is an optimized 4-layer PCB using a multi-rail power distribution network and an isolated RF frontend designed to maintain signal integrity across high-speed digital and highly sensitive analog circuits.
