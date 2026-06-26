@@ -58,7 +58,7 @@ To support the offline hardware operation, a standalone map utility is provided 
    ```
  4. Point a web browser to http://127.0.0.1:5000.
  5. Use the rectangle bounding tool to drag a perimeter over the geographical region you want to download.
- 6. Trigger the download pipeline; files are compiled directly into the root folder under /downloaded_maps/{zoom}/{x}/{y}.png.
+ 6. Trigger the download pipeline; files are compiled directly into the root folder under
     ```
     /downloaded_maps/{zoom}/{x}/{y}.png
     ```
