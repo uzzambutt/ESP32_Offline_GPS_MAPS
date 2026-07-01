@@ -5,7 +5,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # ESP32-S3 Offline GPS & Map Downloader
-**Designed by Muhammad Uzzam Butt // Made for [HC Offtrack YSWS](https://offtrack.hackclub.com/)**
+**Designed by Muhammad Uzzam Butt [(Contact)](mailto:uzzam@northernstudios.cc) // Made for [HC Offtrack YSWS](https://offtrack.hackclub.com/)**
 
 A hardware-focused project developed for the Hack Club community. This repository contains the complete production-ready hardware design files for a custom 4-layer printed circuit board alongside a local web-based tile extraction tool optimized for generating offline map datasets.
 
